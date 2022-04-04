@@ -5,4 +5,8 @@ In the following project I used Robbins Monro and Monte Carlo algorithms to extr
 To improve the performances of Monte Carlo algorithm I used also Importance Sampling to be more efficient in the estimation of the option price.
 
 ## Environment
-the project has been developed with `python 3.8`.
+The project has been developed with `python 3.8`.
+
+The required library are `numpy, scipy, math and pandas`.
+
+The library for vizualisation are `matplotlib and seaborn`.
